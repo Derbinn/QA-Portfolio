@@ -11,3 +11,6 @@ You can see my resume
 
 # Mobile automation coding project
 This is the mobile project where I use automation to solve problems. You can run code and test my tests.
+
+- [Mobile automation project](QA-Portfolio)
+- [Mobile automation project README](QA-Portfolio/mobile-automation-demo.md) 
