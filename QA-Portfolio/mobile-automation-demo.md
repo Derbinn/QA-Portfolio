@@ -25,25 +25,31 @@ This folder contains a series of automated tests designed to validate key functi
    - Ensure you have Node.js and npm installed on your machine.
    - Install the required dependencies by running:
      ```bash
-     npm install playwright
+     npm install -g appium
+     ```
+   - Install UiAutomator2
+     ```bash
+     appium driver install uiautomator2
+     ```
+   - Install WebdriverIO setup
+     ```bash
+     npm init wdio@latest .
      ```
 
 2. **Running Tests:**
    - To execute all tests, use the following command:
      ```bash
-     npx playwright test
+     npx wdio run ./wdio.conf.js
      ```
    - To run a specific test, you can specify the test file:
      ```bash
-     npx playwright test tests/<test-file-name>.spec.js
+     npx wdio run ./wdio.conf.js --spec test.login.ts
      ```
 
 3. **Reviewing Test Results:**
    - Playwright generates detailed reports after each test run. You can view the test results by opening the HTML report:
-     ```bash
-     npx playwright show-report
-     ```
+    
 
 ## Conclusion
 
-This automation project demonstrates proficiency in using Playwright for UI
+This automation project demonstrates proficiency in using appium to running tests in android emulator
