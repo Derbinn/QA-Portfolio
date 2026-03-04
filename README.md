@@ -7,7 +7,7 @@ Table of contents
 
 # Resume
 You can see my resume below
-[My resume](QA-Portfolio/resume.md)
+[My resume](resume.md)
 
 # Mobile automation coding project
 This is the mobile project where I use automation to solve problems. You can run code and test my tests.
