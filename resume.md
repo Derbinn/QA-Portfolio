@@ -1,5 +1,5 @@
 # Binderiya Chinbaatar
-**Software Quality Engineer**  
+**QA Engineer**  
 | [binderya.7@gmail.com](mailto:binderya.7@gmail.com) | Ulaanbaatar, Mongolia  
 |[LinkedIn](www.linkedin.com/in/биндэръяа-ч-352284197)|
 
@@ -24,7 +24,8 @@ test cases, detecting defects, and optimizing test processes.
 ## Work Experience
 
 ### QA Engineer, 
-**Zerotech** - Ulaanbaatar, Mongolia 
+**Zerotech** - Ulaanbaatar, Mongolia
+
 *May 2024 - Present*
 
 Project: Loyalty and Fuel Rewards App
