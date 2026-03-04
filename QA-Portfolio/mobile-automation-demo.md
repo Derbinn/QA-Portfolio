@@ -1,9 +1,9 @@
-# Automation Demo
+# Mobile Automation Demo
 
 
 ## Demo Overview
 
-This folder contains a series of automated tests designed to validate key functionalities of a sample mobile application, webview app. The tests focus on various user actions, such as sign in, log in, form.
+This folder contains a series of automated tests designed to validate key functionalities of a sample mobile application, native-demo-app. You can find this app since it is public. The tests focus on various user actions, such as sign in, log in, form. Tested in android emulator
 
 ## Project Structure
 
@@ -47,7 +47,7 @@ This folder contains a series of automated tests designed to validate key functi
      ```
 
 3. **Reviewing Test Results:**
-   - Playwright generates detailed reports after each test run. You can view the test results by opening the HTML report:
+   -
     
 
 ## Conclusion
