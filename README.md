@@ -6,7 +6,7 @@ Table of contents
 4. CI/CD implementation
 
 # Resume
-You can see my resume below
+You can see my resume
 [My resume](resume.md)
 
 # Mobile automation coding project
