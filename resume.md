@@ -28,7 +28,7 @@ test cases, detecting defects, and optimizing test processes.
 *May 2024 - Present*
 
 Project: Loyalty and Fuel Rewards App
-• Performed end-to-end testing of the mobile app (Android, iOS) from the project
+- Performed end-to-end testing of the mobile app (Android, iOS) from the project
 initiation phase, contributing to a successful on-time launch with zero critical
 defects in production.
 • Instituted detailed test case documentation and checklists, guaranteeing
