@@ -1,7 +1,7 @@
 # Binderiya Chinbaatar
 **Software Quality Engineer**  
-| [binderya.7@gmail.com](mailto:binderya.7@gmail.com) | Ulan-bator, Mongolia  
-[LinkedIn](www.linkedin.com/in/биндэръяа-ч-352284197)
+| [binderya.7@gmail.com](mailto:binderya.7@gmail.com) | Ulaanbaatar, Mongolia  
+|[LinkedIn](www.linkedin.com/in/биндэръяа-ч-352284197)|
 
 ## Professional Summary
 QA Engineer with 3 years of experience in manual and automation testing. Good background in designing
@@ -24,22 +24,48 @@ test cases, detecting defects, and optimizing test processes.
 ## Work Experience
 
 ### QA Engineer, 
-**Zerotech** - Ulan-Bator, Mongolia 
+**Zerotech** - Ulaanbaatar, Mongolia 
 *May 2024 - Present*
 
-- Developed, implemented, and maintained automation frameworks for end-to-end quality assurance, resulting in an impressive 80% increase in testing efficiency and accuracy.
-- Led end-to-end testing for Telus Moves, an application designed to automate the process of transferring customers' services from one location to another. Building and ensuring the quality of this application led to a significant increase in self-serve customer migrations by 30%, streamlining the process and enhancing overall customer experience.
-- Solely guided all end-to-end testing for Optik TV 4.0, a large-scale revamp of Telus’ TV platform. Delivered a high-quality product that impressed stakeholders and drove substantial customer acquisition growth.
-- Managed test data accounts, verified orders/accounts using backend systems, and independently utilized microservices to create, test, and maintain test data. This initiative resulted in substantial cost savings and increased efficiency by eliminating the need to rely on external teams for data management, saving the company thousands of dollars.
-- **Leadership and Engagement**: Active member of Telus Eagles, supporting Indigenous, Inuit, and Métis Peoples. Promoted cultural awareness and fostered an inclusive work environment. As a Métis member, led initiatives including mentorship for Indigenous and Métis peoples, enhancing professional development and cultural exchange.
+Project: Loyalty and Fuel Rewards App
+• Performed end-to-end testing of the mobile app (Android, iOS) from the project
+initiation phase, contributing to a successful on-time launch with zero critical
+defects in production.
+• Instituted detailed test case documentation and checklists, guaranteeing
+complete functional coverage of the mobile application, leading to detection of
+110+ defects before product release.
+• Created over 120 test cases and detailed checklists, achieving 95% functional
+coverage across all key modules.
+• Automated 50+ API test cases in Katalon Studio, reducing regression testing
+time by 70% (from 3 days to less than 1 day) and improving test reliability.
+• Designed and executed POS integration test cases, ensuring 100% accuracy in
+bonus accrual and redemption transactions across multiple partner systems.
+Project: Accounting System for Retail Chains
+• Performed functional testing, created test cases, and identified 41 defects,
+improving system reliability.
+• Conducted API testing and automated 40+ test scripts in Katalon Studio,
+increasing testing efficiency by 60% and improving regression coverage across
+core accounting modules.
+Project: Employee Coupon Application
+• Conducted functional and regression testing of the mobile (Android, iOS) and web
+versions, identifying 35+ defects, which helped reduce critical production issues
+by 25% after release.
+Project: Vendor Management System
+• Created around 60 test cases and tested the UI/UX design to make sure it met
+business and user requirements.
+• Automated testing for 94 API endpoints in Katalon Studio, which helped catch 2
+defects early in development and improved overall integration stability.
 
-### QA Engineer, Digital Advertising SAAS
-**Trade and Development Bank** - Ulan-Bator, Mongolia  
+### QA Engineer
+**Trade and Development Bank** - Ulanbaatar, Mongolia  
 *August 2022 – May 2024*
 
-- Optimized targeted display ads through rigorous testing of ad tags and tracking events. Achieved significant improvements, including increased click-through rates and decreased bounce rates. Enhanced tracking accuracy, resulting in more precise attribution of conversions and better-informed marketing decisions.
-- Boosted workflow efficiency by automating tasks in proprietary ad management software using Selenium. Developed robust automation scripts, reducing manual effort and errors. Resulted in increased productivity and more focus on strategic tasks while ensuring consistent and accurate execution of ad campaigns.
-- Employed Elasticsearch to swiftly search through extensive datasets, leveraging Kubernetes to retrieve container logs for streamlined monitoring and troubleshooting. Additionally, utilized MySQL and Toad for comprehensive data testing, ensuring database integrity and precise data retrieval.
+• Led QA efforts during Jira implementation, streamlining workflows and improving
+defect tracking efficiency.
+• Automated repetitive testing tasks with JMeter and Microsoft Power Automate,
+reducing manual effort by 30%.
+• Collaborated with cross-functional teams on software deployment projects.
+• Configured and maintained Red Hat PAM solutions for process automation.
 
 ## Education
 
